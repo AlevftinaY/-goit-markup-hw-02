@@ -5,12 +5,11 @@ background: #E5E5E5;
 }
 
 @font-face {
-    font-family: 'Roboto';
-    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Roboto';
+  src: url('../font/Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
-
 @font-face {
     font-family: 'Raleway';
     src: url('../fonts/Raleway-Regular.ttf') format('truetype');
@@ -26,6 +25,7 @@ list-style: none;
 a {
 color: #434455;
 text-decoration: none;
+font-style:normal;
 }
 
 p {
